@@ -1,0 +1,50 @@
+0
+Child 30386 is created (sleeps for 6 seconds)
+30386
+Child 30386 exited
+30388
+0
+Child 30389 is created (sleeps for 2 seconds)
+0
+Child 30388 is created (sleeps for 10 seconds)
+30388
+30389
+Child 30389 exited
+Child 30388 exited
+0
+Child 30411 is created (sleeps for 1 seconds)
+30411
+0
+Child 30412 is created (sleeps for 3 seconds)
+30411
+30412
+0
+Child 30413 is created (sleeps for 5 seconds)
+30411
+30412
+30413
+Child 30411 exited
+Child 30412 exited
+Child 30413 exited
+30418
+30419
+0
+Child 30420 is created (sleeps for 1 seconds)
+30418
+30419
+30420
+0
+Child 30421 is created (sleeps for 3 seconds)
+0
+Child 30418 is created (sleeps for 7 seconds)
+30418
+0
+Child 30419 is created (sleeps for 9 seconds)
+30418
+30419
+30420
+30421
+Child 30420 exited
+Child 30421 exited
+Child 30418 exited
+Child 30419 exited

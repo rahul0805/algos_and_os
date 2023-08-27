@@ -1,0 +1,4 @@
+If the parent of the grandchild dies before the grandchild process is completed ,the code is stuck in an infinite loop. 
+The grandparent of the grandchild will be kept alive as the grandchild can never die (as its parent has already completed).
+If the grandchild dies before its parent, the program is able to finish. 
+Now the grandparent can finish execution after the parent has finished execution which in turn will occur after the grandchild dies after execution.

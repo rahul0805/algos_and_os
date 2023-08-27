@@ -1,0 +1,4 @@
+Child 4530 is created by parent 4529 (sleeps for 9 seconds)
+Child 4531 is created by parent 4530 (sleeps for 2 seconds)
+Parent 4530: Child 4531 is exited
+Parent 4529: Child 4530 is exited
